@@ -1,0 +1,29 @@
+1.
+Matched:
+	a. +1.1F
+	b. -2.22F
+	c. 4F
+Not Matched:
+	a. F
+	b. AF
+	c. a3
+
+2.
+Matched:
+	a. 1
+	b. one
+	c. #1
+Not Matched:
+	a. 2
+	b. two
+	c. #2
+
+3.
+Matched:
+	a. a1 a
+	b. aaa2 aaa
+	c. bb3 bb
+Not Matched:
+	a. a a
+	b. a1 b
+	c. aaa22 aaa

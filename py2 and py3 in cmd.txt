@@ -1,0 +1,1 @@
+in cmd: type py -2 (to run python2)

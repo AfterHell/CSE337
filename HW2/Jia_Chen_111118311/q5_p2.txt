@@ -1,0 +1,2 @@
+/^(January|February|March|April|May|June|July|August|September|October|November|December)\s([1-9]|[12]\d|30),\s([0-9]{1,4})$/
+/(^\s*$)|(^\s+(\w+\s+)*$)/

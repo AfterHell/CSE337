@@ -1,0 +1,26 @@
+jiachen1:CS11CHzz
+
+Your login name and password for cse/ise337 are above. The accounts will go live
+tonight (likely after class).
+
+You can use the following machines:
+
+allv22.all.cs.stonybrook.edu, allv23.all.cs.stonybrook.edu, allv24.all.cs.stonybrook.edu,
+allv25.all.cs.stonybrook.edu
+
+You need to use ssh to reach the machines: 
+
+ssh -p 130 your_login_name@allv22.all.cs.stonybrook.edu 
+
+you can swap 23, 24,25 for 22 to reach the other machines.
+
+Send me email if you have any issues logging in. Send the command you used and
+from where you are trying to log in from.
+
+
+Brian
+CS dept
+SUNY Stony Brook
+
+Here:
+ssh -p 130 jiachen1@allv22.all.cs.stonybrook.edu 

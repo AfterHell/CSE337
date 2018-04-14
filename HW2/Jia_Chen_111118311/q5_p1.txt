@@ -1,0 +1,2 @@
+/^(very\s)+(agile\s)*(fluffy\s)*(big\s)*cat$/
+/^\w+\W$/
